@@ -17,12 +17,9 @@ The positive real root of the equation
 
 is given analytically by:
 
-\[
-x = e^{0.175} \approx 1.1912
-\]
+x = e^0.175 ≈ 1.1912
 
 This root is visually identified on the graph.
 
 
 ```bash
-python plot_ln_x4_minus_0p7.py
