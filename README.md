@@ -1,10 +1,10 @@
-# MEC E 692 – Assignment 1
+# MEC E 692 – Assignment 1 - Question 4
 
 **Author:** Seyed Amin Chabok
 
 ## Description
 
-This repository contains the Python code developed for **Assignment 1** of **MEC E 692**.  
+This repository contains the Python code developed for **Q4 of Assignment 1** of **MEC E 692**.  
 The code generates a high-resolution plot of the function
 
 **f(x) = ln(x⁴) − 0.7**
