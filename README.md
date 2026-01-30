@@ -22,4 +22,3 @@ is given analytically by:
 This root is visually identified on the graph.
 
 
-```bash
