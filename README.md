@@ -7,17 +7,13 @@
 This repository contains the Python code developed for **Assignment 1** of **MEC E 692**.  
 The code generates a high-resolution plot of the function
 
-\[
-f(x) = \ln(x^4) - 0.7
-\]
+**f(x) = ln(x⁴) − 0.7**
 
 ## Mathematical Background
 
 The positive real root of the equation
 
-\[
-\ln(x^4) = 0.7
-\]
+**f(x) = ln(x⁴) − 0.7**
 
 is given analytically by:
 
