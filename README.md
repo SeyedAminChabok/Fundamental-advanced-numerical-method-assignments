@@ -17,7 +17,7 @@ The positive real root of the equation
 
 is given analytically by:
 
-x = e^0.175 ≈ 1.1912
+**x = e^0.175 ≈ 1.1912**
 
 This root is visually identified on the graph.
 
